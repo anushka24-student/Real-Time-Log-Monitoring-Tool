@@ -1,0 +1,6 @@
+File,Error Type,Count
+server.log,ALL,3
+app.log,ALL,3
+ALL FILES,FAILURE,1
+ALL FILES,ERROR,4
+ALL FILES,CRITICAL,1
