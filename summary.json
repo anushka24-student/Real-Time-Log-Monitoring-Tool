@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-31T14:59:56.402927589Z",
+  "total_errors": 6,
+  "by_file": {
+    "app.log": 3,
+    "server.log": 3
+  },
+  "by_type": {
+    "CRITICAL": 1,
+    "ERROR": 4,
+    "FAILURE": 1
+  },
+  "by_minute": {
+    "2026-10-31 14:54": 6
+  }
+}
